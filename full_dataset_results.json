@@ -1,0 +1,18 @@
+{
+  "baseline": {
+    "accuracy": 0.43,
+    "correct_count": 86,
+    "total_count": 200,
+    "time": 404.890971660614,
+    "avg_time_per_question": 2.02445485830307,
+    "description": "LangChain Hub RAG prompt, k=10, FULL DATASET"
+  },
+  "optimized": {
+    "accuracy": 0.77,
+    "correct_count": 154,
+    "total_count": 200,
+    "time": 285.53844356536865,
+    "avg_time_per_question": 1.4276922178268432,
+    "description": "Custom prompt, k=3, FULL DATASET"
+  }
+}

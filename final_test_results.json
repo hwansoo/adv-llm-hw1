@@ -1,0 +1,14 @@
+{
+  "test_size": 80,
+  "accuracy": 0.825,
+  "correct_count": 66,
+  "total_count": 80,
+  "time": 101.22748041152954,
+  "speed_per_question": 1.2653435051441193,
+  "improvement_over_baseline": 0.39499999999999996,
+  "improvement_over_previous": 0.05499999999999994,
+  "target_80_achieved": true,
+  "target_85_achieved": false,
+  "k_value": 3,
+  "model": "gpt-4o-mini"
+}

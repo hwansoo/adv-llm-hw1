@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.68,
+  "correct_count": 68,
+  "total_count": 100,
+  "time": 103.52918934822083,
+  "improvement_over_baseline": 0.25000000000000006,
+  "improvement_over_previous": -0.08999999999999997,
+  "target_85_achieved": false,
+  "target_80_achieved": false,
+  "error_breakdown": {
+    "context_issues": 9,
+    "extraction_issues": 22,
+    "cleaning_issues": 1
+  }
+}

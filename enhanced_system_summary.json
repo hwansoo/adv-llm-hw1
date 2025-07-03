@@ -1,0 +1,70 @@
+{
+  "accuracy": 0.48,
+  "correct_count": 48,
+  "total_count": 100,
+  "time": 282.9196026325226,
+  "improvement_over_baseline": -0.29000000000000004,
+  "target_85_achieved": false,
+  "errors": [
+    {
+      "question": "What did Darwin decide to do with the profits of the American version of On the Origin of Species?",
+      "expected": "asked Gray to keep any profits",
+      "got": "keep any profits",
+      "context_has_answer": true
+    },
+    {
+      "question": "What term did Obama want the government to stop using?",
+      "expected": "war on terror",
+      "got": "Overseas Contingency Operation",
+      "context_has_answer": true
+    },
+    {
+      "question": "What do some historians think made Wallace's concept of natural selection different from Darwin's?",
+      "expected": "Some historians have suggested that Wallace was actually discussing group selection rather than selection acting on individual variation.",
+      "got": "group selection",
+      "context_has_answer": true
+    },
+    {
+      "question": "How often are passages by Darwin quoted in the creation\u2013evolution controversy?",
+      "expected": "No Answer",
+      "got": "frequently",
+      "context_has_answer": false
+    },
+    {
+      "question": "Within what frame of reference does Darwin use the phrase \"Struggle for Existence?\"",
+      "expected": "\"a large and metaphorical sense",
+      "got": "a large and metaphorical sense, including dependence of one being on another",
+      "context_has_answer": true
+    },
+    {
+      "question": "Einstein showed how what could be altered by high speed motion?",
+      "expected": "both temporal and spatial dimensions",
+      "got": "temporal and spatial dimensions",
+      "context_has_answer": true
+    },
+    {
+      "question": "What did Darwin expect to see between species with the addition of artificial selection?",
+      "expected": "no limit to the amount of change, to the beauty and infinite complexity of the coadaptations between all organic beings",
+      "got": "no limit to the amount of change",
+      "context_has_answer": true
+    },
+    {
+      "question": "How much was China going to invest in the European Galileo positioning system project?",
+      "expected": "\u20ac230 million (USD296 million, GBP160 million)",
+      "got": "\u20ac230 million",
+      "context_has_answer": true
+    },
+    {
+      "question": "In what year did Einstein create E = mc2?",
+      "expected": "1905",
+      "got": "No Answer",
+      "context_has_answer": true
+    },
+    {
+      "question": "What controversy around Darwin's book began in the 1920s?",
+      "expected": "the American creation\u2013evolution controversy",
+      "got": "American creation\u2013evolution controversy",
+      "context_has_answer": true
+    }
+  ]
+}
