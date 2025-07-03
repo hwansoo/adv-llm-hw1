@@ -1,0 +1,16 @@
+{
+  "baseline": {
+    "accuracy": 0.42,
+    "correct_count": 21,
+    "total_count": 50,
+    "time": 94.83479571342468,
+    "description": "LangChain Hub RAG prompt, k=10"
+  },
+  "optimized": {
+    "accuracy": 0.88,
+    "correct_count": 44,
+    "total_count": 50,
+    "time": 63.974629163742065,
+    "description": "Custom prompt, k=3"
+  }
+}
